@@ -1,6 +1,7 @@
 # TeamTreeHouse_Courses
 This is a collection of examples from the Team Treehouse course that I have taken.
 Below is a list of achievements that I have received (99):
+
   Meet Objects - Java Objects
   Perfecting the Prototype - Java Basics
   Using your New Tools - Java Basics
