@@ -1,7 +1,11 @@
 # TeamTreeHouse_Courses
 This is a collection of examples from the Team Treehouse course that I have taken.
-Below is a list of achievements that I have received (99):
+Below is a list of achievements that I have received (103):
 
+  * Exploring Best Pratices \- Introduction to Selenium
+  * Test Drive \- Introduction to Selenium
+  * Meet Selenium \- Introduction to Selenium
+  * Harnessing the Power of Objects \- Java Objects
   * Meet Objects \- Java Objects
   * Perfecting the Prototype \- Java Basics
   * Using your New Tools \- Java Basics
